@@ -1,0 +1,11 @@
+.btn {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+    background-color: #FFD100;
+    border-radius: 10px;
+    border: none;
+    
+}
